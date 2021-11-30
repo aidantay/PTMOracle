@@ -1,0 +1,529 @@
+P32471	YAL003W	EFB1	Elongation factor 1-beta	Other	FALSE	FALSE	FALSE	FALSE		Other
+P10591	YAL005C	SSA1	Heat shock protein SSA1	Other	TRUE	FALSE	FALSE	FALSE		Other
+P31376	YAL011W	SWC3	SWR1-complex protein 3	Other	FALSE	FALSE	FALSE	FALSE		Other
+P31374	YAL017W	PSK1	Serine/threonine-protein kinase PSK1	Kinase	TRUE	FALSE	FALSE	FALSE		Kinase
+P31384	YAL021C	CCR4	Glucose-repressible alcohol dehydrogenase transcriptional effector	Other	TRUE	FALSE	FALSE	FALSE		Other
+P39705	YAR002W	NUP60	Nucleoporin NUP60	Other	TRUE	FALSE	FALSE	FALSE		Other
+P39706	YAR003W	SWD1	COMPASS component SWD1	Other	TRUE	FALSE	FALSE	FALSE		Other
+P22336	YAR007C	RFA1	Replication factor A protein 1	Other	TRUE	FALSE	FALSE	FALSE		Other
+P27636	YAR019C	CDC15	Cell division control protein 15	Kinase	TRUE	FALSE	FALSE	FALSE		Kinase
+P02294	YBL002W	HTB2	Histone H2B.2	Other	TRUE	FALSE	FALSE	FALSE		Other
+P04912	YBL003C	HTA2	Histone H2A.2	Other	TRUE	FALSE	TRUE	TRUE		MethylationTarget
+P32479	YBL008W	HIR1	Protein HIR1	Other	TRUE	FALSE	FALSE	FALSE		Other
+P16892	YBL016W	FUS3	Mitogen-activated protein kinase FUS3	Kinase	TRUE	FALSE	FALSE	FALSE		Kinase
+P07256	YBL045C	COR1	Cytochrome b-c1 complex subunit 1, mitochondrial precursor	Other	TRUE	FALSE	FALSE	FALSE		Other
+P38193	YBL046W	PSY4	Serine/threonine-protein phosphatase 4 regulatory subunit 2	Other	TRUE	FALSE	FALSE	FALSE		Other
+P34218	YBL052C	SAS3	Histone acetyltransferase SAS3	Other	FALSE	FALSE	FALSE	FALSE		Other
+P0CX41	YBL087C	RPL23A	60S ribosomal protein L23-A	Other	FALSE	FALSE	TRUE	TRUE		MethylationTarget
+P38110	YBL088C	TEL1	Serine/threonine-protein kinase TEL1	Kinase	TRUE	FALSE	FALSE	FALSE		Kinase
+P24583	YBL105C	PKC1	Protein kinase C-like 1	Kinase	TRUE	FALSE	FALSE	FALSE		Kinase
+P02309	YBR009C	HHF1	Histone H4	Other	TRUE	TRUE	TRUE	TRUE		MethylationTarget
+P61830	YBR010W	HHT1	Histone H3	Other	TRUE	FALSE	TRUE	TRUE		MethylationTarget
+P38217	YBR017C	KAP104	Importin subunit beta-2	Other	TRUE	FALSE	FALSE	FALSE		Other
+P04385	YBR020W	GAL1	Galactokinase	Other	TRUE	FALSE	FALSE	FALSE		Other
+P38222	YBR030W	RKM3	Ribosomal lysine N-methyltransferase 3	Methyltransferase	FALSE	FALSE	FALSE	FALSE	Lysine	Methyltransferase
+P38074	YBR034C	HMT1	Protein arginine N-methyltransferase 1	Methyltransferase	FALSE	FALSE	FALSE	FALSE	Arginine	Methyltransferase
+P38081	YBR056W		Uncharacterized glycosyl hydrolase YBR056W	Other	FALSE	FALSE	FALSE	FALSE		Other
+P38080	YBR059C	AKL1	Serine/threonine-protein kinase AKL1	Kinase	TRUE	FALSE	FALSE	FALSE		Kinase
+P35177	YBR081C	SPT7	Transcriptional activator SPT7	Other	TRUE	FALSE	FALSE	FALSE		Other
+P11633	YBR089C-A	NHP6B	Non-histone chromosomal protein 6B	Other	TRUE	FALSE	FALSE	FALSE		Other
+P38261	YBR102C	EXO84	Exocyst complex component EXO84	Other	TRUE	FALSE	FALSE	FALSE		Other
+Q6WNK7	YBR111W-A	SUS1	Transcription and mRNA export factor SUS1	Other	TRUE	FALSE	FALSE	FALSE		Other
+P14922	YBR112C	CYC8	General transcriptional corepressor CYC8	Other	TRUE	FALSE	FALSE	FALSE		Other
+P02994	YBR118W	TEF2	Elongation factor 1-alpha	Other	TRUE	FALSE	TRUE	TRUE		MethylationTarget
+P32605	YBR119W	MUD1	U1 small nuclear ribonucleoprotein A	Other	FALSE	FALSE	FALSE	FALSE		Other
+P38111	YBR136W	MEC1	Serine/threonine-protein kinase MEC1	Kinase	TRUE	FALSE	FALSE	FALSE		Kinase
+P12385	YBR143C	SUP45	Eukaryotic peptide chain release factor subunit 1	Other	TRUE	FALSE	FALSE	TRUE		MethylationTarget
+P20434	YBR154C	RPB5	DNA-directed RNA polymerases I, II, and III subunit RPABC1	Other	TRUE	FALSE	FALSE	FALSE		Other
+P38283	YBR156C	SLI15	Inner centromere protein-related protein SLI15	Other	TRUE	FALSE	FALSE	FALSE		Other
+P00546	YBR160W	CDC28	Cyclin-dependent kinase 1	Kinase	TRUE	FALSE	FALSE	FALSE		Kinase
+P38123	YBR175W	SWD3	COMPASS component SWD3	Other	TRUE	FALSE	FALSE	FALSE		Other
+P13712	YBR195C	MSI1	Chromatin assembly factor 1 subunit p50	Other	TRUE	FALSE	FALSE	FALSE		Other
+P38129	YBR198C	TAF5	Transcription initiation factor TFIID subunit 5	Other	TRUE	FALSE	FALSE	FALSE		Other
+P38326	YBR231C	SWC5	SWR1-complex protein 5	Other	TRUE	FALSE	FALSE	FALSE		Other
+P38144	YBR245C	ISW1	ISWI chromatin-remodeling complex ATPase ISW1	Other	TRUE	FALSE	FALSE	FALSE		Other
+P38333	YBR247C	ENP1	Essential nuclear protein 1	Other	TRUE	FALSE	FALSE	FALSE		Other
+P38337	YBR258C	SHG1	COMPASS component SHG1	Other	FALSE	FALSE	FALSE	FALSE		Other
+P38340	YBR261C	TAE1	Alpha N-terminal protein methyltransferase 1	Methyltransferase	FALSE	FALSE	FALSE	FALSE	N-Terminal	Methyltransferase
+P38347	YBR271W	EFM2	Protein-lysine N-methyltransferase EFM2	Methyltransferase	FALSE	FALSE	FALSE	FALSE	Lysine	Methyltransferase
+P38147	YBR274W	CHK1	Serine/threonine-protein kinase CHK1	Kinase	TRUE	FALSE	FALSE	FALSE		Kinase
+P18480	YBR289W	SNF5	SWI/SNF chromatin-remodeling complex subunit SNF5	Other	TRUE	FALSE	FALSE	FALSE		Other
+P25554	YCL010C	SGF29	SAGA-associated factor 29	Other	TRUE	FALSE	FALSE	FALSE		Other
+P25555	YCL011C	GBP2	Single-strand telomeric DNA-binding protein GBP2	Other	TRUE	TRUE	FALSE	TRUE		MethylationTarget
+P25582	YCL054W	SPB1	27S pre-rRNA (guanosine(2922)-2'-O)-methyltransferase	Other	TRUE	FALSE	FALSE	FALSE		Other
+P25586	YCL059C	KRR1	KRR1 small subunit processome component	Other	TRUE	FALSE	FALSE	FALSE		Other
+P25333	YCR008W	SAT4	Serine/threonine-protein kinase HAL4/SAT4	Kinase	TRUE	FALSE	FALSE	FALSE		Kinase
+P25632	YCR052W	RSC6	Chromatin structure-remodeling complex protein RSC6	Other	TRUE	FALSE	FALSE	FALSE		Other
+P16649	YCR084C	TUP1	General transcriptional corepressor TUP1	Other	TRUE	FALSE	FALSE	FALSE		Other
+P15891	YCR088W	ABP1	Actin-binding protein	Other	TRUE	FALSE	FALSE	FALSE		Other
+Q03435	YDL002C	NHP10	Non-histone protein 10	Other	TRUE	FALSE	FALSE	FALSE		Other
+P15646	YDL014W	NOP1	rRNA 2'-O-methyltransferase fibrillarin	Other	TRUE	TRUE	FALSE	TRUE		MethylationTarget
+Q12100	YDL025C	RTK1	Probable serine/threonine-protein kinase RTK1	Kinase	TRUE	FALSE	FALSE	FALSE		Kinase
+P54199	YDL028C	MPS1	Serine/threonine-protein kinase MPS1	Kinase	TRUE	FALSE	FALSE	FALSE		Kinase
+P32381	YDL029W	ARP2	Actin-related protein 2	Other	TRUE	FALSE	FALSE	FALSE		Other
+P06700	YDL042C	SIR2	NAD-dependent histone deacetylase SIR2	Other	TRUE	FALSE	FALSE	FALSE		Other
+Q07381	YDL060W	TSR1	Ribosome biogenesis protein TSR1	Other	TRUE	FALSE	FALSE	FALSE		Other
+Q07457	YDL074C	BRE1	E3 ubiquitin-protein ligase BRE1	Other	TRUE	FALSE	FALSE	FALSE		Other
+P05318	YDL081C	RPP1A	60S acidic ribosomal protein P1-alpha	Other	TRUE	FALSE	FALSE	FALSE		Other
+Q07478	YDL084W	SUB2	ATP-dependent RNA helicase SUB2	Other	TRUE	FALSE	FALSE	FALSE		Other
+Q07505	YDL086W		Putative carboxymethylenebutenolidase	Other	FALSE	FALSE	FALSE	FALSE		Other
+P39009	YDL101C	DUN1	DNA damage response protein kinase DUN1	Kinase	TRUE	FALSE	FALSE	FALSE		Kinase
+P06242	YDL108W	KIN28	Serine/threonine-protein kinase KIN28	Kinase	TRUE	FALSE	FALSE	FALSE		Kinase
+P10622	YDL130W	RPP1B	60S acidic ribosomal protein P1-beta	Other	FALSE	FALSE	FALSE	FALSE		Other
+Q12122	YDL131W	LYS21	Homocitrate synthase, mitochondrial precursor	Other	TRUE	FALSE	FALSE	FALSE		Other
+Q12334	YDL139C	SCM3	Protein SCM3	Other	TRUE	FALSE	FALSE	FALSE		Other
+P04050	YDL140C	RPO21	DNA-directed RNA polymerase II subunit RPB1	Other	TRUE	FALSE	FALSE	FALSE		Other
+Q12510	YDL156W		DNA damage-binding protein CMR1	Other	TRUE	FALSE	FALSE	FALSE		Other
+P06784	YDL159W	STE7	Serine/threonine-protein kinase STE7	Kinase	TRUE	FALSE	FALSE	FALSE		Kinase
+P39517	YDL160C	DHH1	ATP-dependent RNA helicase DHH1	Other	TRUE	FALSE	FALSE	FALSE		Other
+P06100	YDL165W	CDC36	General negative regulator of transcription subunit 2	Other	TRUE	FALSE	FALSE	FALSE		Other
+Q12476	YDL175C	AIR2	Protein AIR2	Other	TRUE	TRUE	FALSE	TRUE		MethylationTarget
+Q12315	YDL207W	GLE1	Nucleoporin GLE1	Other	TRUE	FALSE	FALSE	FALSE		Other
+P32495	YDL208W	NHP2	H/ACA ribonucleoprotein complex subunit 2	Other	FALSE	FALSE	FALSE	FALSE		Other
+P11484	YDL229W	SSB1	Heat shock protein SSB1	Other	TRUE	FALSE	FALSE	FALSE		Other
+Q12248	YDR016C	DAD1	DASH complex subunit DAD1	Other	TRUE	FALSE	FALSE	FALSE		Other
+P11353	YDR044W	HEM13	Oxygen-dependent coproporphyrinogen-III oxidase	Other	TRUE	FALSE	FALSE	FALSE		Other
+P38956	YDR073W	SNF11	Transcription regulatory protein SNF11	Other	FALSE	FALSE	FALSE	FALSE		Other
+P32345	YDR075W	PPH3	Serine/threonine-protein phosphatase 4 catalytic subunit	Other	TRUE	FALSE	FALSE	FALSE		Other
+P35178	YDR087C	RRP1	Ribosomal RNA-processing protein 1	Other	TRUE	FALSE	FALSE	FALSE		Other
+Q03195	YDR091C	RLI1	Translation initiation factor RLI1	Other	TRUE	FALSE	FALSE	FALSE		Other
+P34730	YDR099W	BMH2	Protein BMH2	Other	TRUE	FALSE	FALSE	FALSE		Other
+Q03862	YDR101C	ARX1	Probable metalloprotease ARX1	Other	FALSE	FALSE	FALSE	FALSE		Other
+Q04600	YDR117C	TMA64	Translation machinery-associated protein 64	Other	TRUE	FALSE	FALSE	FALSE		Other
+P13185	YDR122W	KIN1	Serine/threonine protein kinase KIN1	Kinase	TRUE	FALSE	FALSE	FALSE		Kinase
+Q03898	YDR130C	FIN1	Filament protein FIN1	Other	TRUE	FALSE	FALSE	FALSE		Other
+P17629	YDR138W	HPR1	THO complex subunit HPR1	Other	TRUE	FALSE	FALSE	FALSE		Other
+Q03919	YDR139C	RUB1	NEDD8-like protein RUB1 precursor	Other	FALSE	FALSE	FALSE	FALSE		Other
+Q03920	YDR140W	MTQ2	eRF1 methyltransferase catalytic subunit MTQ2	Methyltransferase	FALSE	FALSE	FALSE	FALSE	Glutamine	Methyltransferase
+P08153	YDR146C	SWI5	Transcriptional factor SWI5	Other	TRUE	FALSE	FALSE	FALSE		Other
+P14832	YDR155C	CPR1	Peptidyl-prolyl cis-trans isomerase	Other	TRUE	FALSE	FALSE	FALSE		Other
+Q12030	YDR167W	TAF10	Transcription initiation factor TFIID subunit 10	Other	TRUE	FALSE	FALSE	FALSE		Other
+P05453	YDR172W	SUP35	Eukaryotic peptide chain release factor GTP-binding subunit	Other	TRUE	FALSE	FALSE	FALSE		Other
+P32494	YDR176W	NGG1	Chromatin-remodeling complexes subunit NGG1	Other	TRUE	FALSE	FALSE	FALSE		Other
+Q03940	YDR190C	RVB1	RuvB-like protein 1	Other	TRUE	FALSE	FALSE	FALSE		Other
+P49686	YDR192C	NUP42	Nucleoporin NUP42	Other	FALSE	FALSE	FALSE	FALSE		Other
+Q03942	YDR198C	RKM2	Ribosomal lysine N-methyltransferase 2	Methyltransferase	FALSE	FALSE	FALSE	FALSE	Lysine	Methyltransferase
+Q03954	YDR201W	SPC19	DASH complex subunit SPC19	Other	TRUE	FALSE	FALSE	FALSE		Other
+P02293	YDR224C	HTB1	Histone H2B.1	Other	TRUE	FALSE	FALSE	FALSE		Other
+P04911	YDR225W	HTA1	Histone H2A.1	Other	TRUE	FALSE	TRUE	TRUE		MethylationTarget
+P11978	YDR227W	SIR4	Regulatory protein SIR4	Other	TRUE	FALSE	FALSE	FALSE		Other
+P39081	YDR228C	PCF11	Protein PCF11	Other	TRUE	FALSE	FALSE	FALSE		Other
+Q03782	YDR240C	SNU56	56 kDa U1 small nuclear ribonucleoprotein component	Other	FALSE	FALSE	FALSE	FALSE		Other
+Q03785	YDR247W	VHS1	Serine/threonine-protein kinase VHS1	Kinase	TRUE	FALSE	FALSE	FALSE		Kinase
+Q12504	YDR257C	RKM4	Ribosomal lysine N-methyltransferase 4	Methyltransferase	TRUE	FALSE	FALSE	FALSE	Lysine	Methyltransferase
+Q05580	YDR266C		E3 ubiquitin-protein ligase HEL2	Other	TRUE	FALSE	FALSE	FALSE		Other
+Q05636	YDR280W	RRP45	Exosome complex component RRP45	Other	FALSE	FALSE	FALSE	FALSE		Other
+P15442	YDR283C	GCN2	Serine/threonine-protein kinase GCN2	Kinase	TRUE	FALSE	FALSE	FALSE		Kinase
+Q06639	YDR303C	RSC3	Chromatin structure-remodeling complex protein RSC3	Other	TRUE	FALSE	FALSE	FALSE		Other
+P46676	YDR310C	SUM1	Suppressor of mar1-1 protein	Other	TRUE	FALSE	FALSE	FALSE		Other
+P69851	YDR320C-A	DAD4	DASH complex subunit DAD4	Other	FALSE	FALSE	FALSE	FALSE		Other
+Q05471	YDR334W	SWR1	Helicase SWR1	Other	TRUE	FALSE	FALSE	FALSE		Other
+Q06338	YDR361C	BCP1	Protein BCP1	Other	TRUE	FALSE	FALSE	FALSE		Other
+Q06344	YDR365C	ESF1	Pre-rRNA-processing protein ESF1	Other	TRUE	FALSE	FALSE	FALSE		Other
+Q06405	YDR377W	ATP17	ATP synthase subunit f, mitochondrial precursor	Other	FALSE	FALSE	FALSE	FALSE		Other
+Q12159	YDR381W	YRA1	RNA annealing protein YRA1	Other	TRUE	TRUE	FALSE	TRUE		MethylationTarget
+P02400	YDR382W	RPP2B	60S acidic ribosomal protein P2-beta	Other	TRUE	FALSE	FALSE	FALSE		Other
+P32324	YDR385W	EFT2	Elongation factor 2	Other	TRUE	FALSE	FALSE	FALSE		Other
+P34087	YDR404C	RPB7	DNA-directed RNA polymerase II subunit RPB7	Other	TRUE	FALSE	FALSE	FALSE		Other
+P0CX54	YDR418W	RPL12B	60S ribosomal protein L12-B	Other	TRUE	TRUE	TRUE	TRUE		MethylationTarget
+P32578	YDR422C	SIP1	SNF1 protein kinase subunit beta-1	Other	TRUE	FALSE	FALSE	FALSE		Other
+Q01560	YDR432W	NPL3	Nucleolar protein 3	Other	TRUE	TRUE	FALSE	TRUE		MethylationTarget
+Q04089	YDR440W	DOT1	Histone-lysine N-methyltransferase, H3 lysine-79 specific	Methyltransferase	TRUE	FALSE	FALSE	FALSE	Lysine	Methyltransferase
+Q02336	YDR448W	ADA2	Transcriptional adapter 2	Other	TRUE	FALSE	FALSE	FALSE		Other
+Q03305	YDR465C	RMT2	Protein arginine N-methyltransferase 2	Methyltransferase	TRUE	FALSE	FALSE	FALSE	Arginine	Methyltransferase
+Q03306	YDR466W	PKH3	Serine/threonine-protein kinase PKH3	Kinase	TRUE	FALSE	FALSE	FALSE		Kinase
+Q03323	YDR469W	SDC1	COMPASS component SDC1	Other	FALSE	FALSE	FALSE	FALSE		Other
+P06782	YDR477W	SNF1	Carbon catabolite-derepressing protein kinase	Kinase	TRUE	FALSE	FALSE	FALSE		Kinase
+Q03388	YDR485C	VPS72	Vacuolar protein sorting-associated protein 72	Other	FALSE	FALSE	FALSE	FALSE		Other
+Q03407	YDR490C	PKH1	Serine/threonine-protein kinase PKH1	Kinase	TRUE	FALSE	FALSE	FALSE		Kinase
+Q12263	YDR507C	GIN4	Serine/threonine-protein kinase GIN4	Kinase	TRUE	FALSE	FALSE	FALSE		Kinase
+Q12306	YDR510W	SMT3	Ubiquitin-like protein SMT3 precursor	Other	TRUE	FALSE	FALSE	FALSE		Other
+P08458	YDR523C	SPS1	Sporulation-specific protein 1	Kinase	TRUE	FALSE	FALSE	FALSE		Kinase
+P03069	YEL009C	GCN4	General control protein GCN4	Other	TRUE	FALSE	FALSE	FALSE		Other
+P39997	YEL016C	NPP2	Ectonucleotide pyrophosphatase/phosphodiesterase 2	Other	FALSE	FALSE	FALSE	FALSE		Other
+P39995	YEL018W	EAF5	Chromatin modification-related protein EAF5	Other	FALSE	FALSE	FALSE	FALSE		Other
+P39990	YEL026W	SNU13	13 kDa ribonucleoprotein-associated protein	Other	TRUE	FALSE	FALSE	FALSE		Other
+P32614	YEL047C		Fumarate reductase 1	Other	TRUE	FALSE	FALSE	FALSE		Other
+P0CX53	YEL054C	RPL12A	60S ribosomal protein L12-A	Other	FALSE	TRUE	TRUE	TRUE		MethylationTarget
+P39984	YEL056W	HAT2	Histone acetyltransferase type B subunit 2	Other	FALSE	FALSE	FALSE	FALSE		Other
+P40019	YER030W	CHZ1	Histone H2A.Z-specific chaperone CHZ1	Other	TRUE	FALSE	FALSE	FALSE		Other
+P40024	YER036C	ARB1	ABC transporter ATP-binding protein ARB1	Other	TRUE	FALSE	FALSE	FALSE		Other
+P40034	YER051W	JHD1	JmjC domain-containing histone demethylation protein 1	Other	FALSE	FALSE	FALSE	FALSE		Other
+P40069	YER110C	KAP123	Importin subunit beta-4	Other	TRUE	FALSE	FALSE	FALSE		Other
+P0CX42	YER117W	RPL23B	60S ribosomal protein L23-B	Other	FALSE	FALSE	TRUE	TRUE		MethylationTarget
+P39940	YER125W	RSP5	E3 ubiquitin-protein ligase RSP5	Other	TRUE	FALSE	FALSE	FALSE		Other
+P13393	YER148W	SPT15	TATA-box-binding protein	Other	TRUE	FALSE	FALSE	FALSE		Other
+P32657	YER164W	CHD1	Chromo domain-containing protein 1	Other	TRUE	FALSE	FALSE	FALSE		Other
+P04147	YER165W	PAB1	Polyadenylate-binding protein, cytoplasmic and nuclear	Other	TRUE	FALSE	FALSE	FALSE		Other
+P39956	YER169W	RPH1	DNA damage-responsive transcriptional repressor RPH1	Other	TRUE	FALSE	FALSE	FALSE		Other
+P32639	YER172C	BRR2	Pre-mRNA-splicing helicase BRR2	Other	TRUE	FALSE	FALSE	FALSE		Other
+P43573	YFL023W	BUD27	Bud site selection protein 27	Other	TRUE	FALSE	FALSE	FALSE		Other
+P43572	YFL024C	EPL1	Enhancer of polycomb-like protein 1	Other	TRUE	FALSE	FALSE	FALSE		Other
+P60010	YFL039C	ACT1	Actin	Other	TRUE	FALSE	FALSE	FALSE		Other
+P43554	YFL049W	SWP82	SWI/SNF global transcription activator complex subunit SWP82	Other	TRUE	FALSE	FALSE	FALSE		Other
+P34077	YFR002W	NIC96	Nucleoporin NIC96	Other	TRUE	FALSE	FALSE	FALSE		Other
+P43535	YFR009W	GCN20	Protein GCN20	Other	TRUE	FALSE	FALSE	FALSE		Other
+P27466	YFR014C	CMK1	Calcium/calmodulin-dependent protein kinase I	Kinase	TRUE	FALSE	FALSE	FALSE		Kinase
+P43603	YFR024C-A	LSB3	LAS seventeen-binding protein 3	Other	TRUE	FALSE	FALSE	FALSE		Other
+P43609	YFR037C	RSC8	Chromatin structure-remodeling complex protein RSC8	Other	TRUE	FALSE	FALSE	FALSE		Other
+P25299	YGL044C	RNA15	mRNA 3'-end-processing protein RNA15	Other	TRUE	FALSE	FALSE	FALSE		Other
+P39936	YGL049C	TIF4632	Eukaryotic initiation factor 4F subunit p130	Other	TRUE	FALSE	FALSE	FALSE		Other
+P06104	YGL058W	RAD6	Ubiquitin-conjugating enzyme E2 2	Other	TRUE	FALSE	FALSE	FALSE		Other
+P53170	YGL059W	PKP2	[Pyruvate dehydrogenase (acetyl-transferring)] kinase 2, mitochondrial precursor	Kinase	TRUE	FALSE	FALSE	FALSE		Kinase
+P53168	YGL061C	DUO1	DASH complex subunit DUO1	Other	TRUE	FALSE	FALSE	FALSE		Other
+P53165	YGL066W	SGF73	SAGA-associated factor 73	Other	TRUE	FALSE	FALSE	FALSE		Other
+P27999	YGL070C	RPB9	DNA-directed RNA polymerase II subunit RPB9	Other	TRUE	FALSE	FALSE	FALSE		Other
+P20447	YGL078C	DBP3	ATP-dependent RNA helicase DBP3	Other	FALSE	FALSE	FALSE	FALSE		Other
+P21827	YGL097W	SRM1	Guanine nucleotide exchange factor SRM1	Other	TRUE	FALSE	FALSE	FALSE		Other
+P53145	YGL099W	LSG1	Large subunit GTPase 1	Other	TRUE	FALSE	FALSE	FALSE		Other
+P53040	YGL112C	TAF6	Transcription initiation factor TFIID subunit 6	Other	TRUE	FALSE	FALSE	FALSE		Other
+P53131	YGL120C	PRP43	Pre-mRNA-splicing factor ATP-dependent RNA helicase PRP43	Other	TRUE	FALSE	FALSE	FALSE		Other
+P32505	YGL122C	NAB2	Nuclear polyadenylated RNA-binding protein NAB2	Other	TRUE	TRUE	FALSE	TRUE		MethylationTarget
+P25443	YGL123W	RPS2	40S ribosomal protein S2	Other	TRUE	TRUE	FALSE	TRUE		MethylationTarget
+P53127	YGL131C	SNT2	E3 ubiquitin-protein ligase SNT2	Other	TRUE	FALSE	FALSE	FALSE		Other
+P53125	YGL133W	ITC1	Imitation switch two complex protein 1	Other	TRUE	FALSE	FALSE	FALSE		Other
+P0CX44	YGL135W	RPL1B	60S ribosomal protein L1-B	Other	FALSE	FALSE	TRUE	TRUE		MethylationTarget
+P30775	YGL143C	MRF1	Peptide chain release factor 1, mitochondrial precursor	Other	TRUE	FALSE	FALSE	TRUE		MethylationTarget
+P53115	YGL150C	INO80	Putative DNA helicase INO80	Other	FALSE	FALSE	FALSE	FALSE		Other
+P38622	YGL158W	RCK1	Serine/threonine-protein kinase RCK1	Kinase	TRUE	FALSE	FALSE	FALSE		Kinase
+Q02199	YGL172W	NUP49	Nucleoporin NUP49/NSP49	Other	TRUE	FALSE	FALSE	FALSE		Other
+P22147	YGL173C	XRN1	5'-3' exoribonuclease 1	Other	TRUE	FALSE	FALSE	FALSE		Other
+P43637	YGL179C	TOS3	Serine/threonine-protein kinase TOS3	Kinase	TRUE	FALSE	FALSE	FALSE		Kinase
+P53104	YGL180W	ATG1	Serine/threonine-protein kinase ATG1	Kinase	TRUE	FALSE	FALSE	FALSE		Kinase
+Q00362	YGL190C	CDC55	Protein phosphatase PP2A regulatory subunit B	Other	TRUE	FALSE	FALSE	FALSE		Other
+P32558	YGL207W	SPT16	FACT complex subunit SPT16	Other	TRUE	FALSE	FALSE	FALSE		Other
+P34164	YGL208W	SIP2	SNF1 protein kinase subunit beta-2	Other	TRUE	FALSE	FALSE	FALSE		Other
+P53067	YGL241W	KAP114	Importin subunit beta-5	Other	TRUE	FALSE	FALSE	FALSE		Other
+P53201	YGR002C	SWC4	SWR1-complex protein 4	Other	FALSE	FALSE	FALSE	FALSE		Other
+P53207	YGR013W	SNU71	U1 small nuclear ribonucleoprotein component SNU71	Other	TRUE	FALSE	FALSE	FALSE		Other
+Q3E792	YGR027C	RPS25A	40S ribosomal protein S25-A	Other	TRUE	FALSE	FALSE	TRUE		MethylationTarget
+P27882	YGR029W	ERV1	Mitochondrial FAD-linked sulfhydryl oxidase ERV1	Other	FALSE	FALSE	FALSE	FALSE		Other
+P53235	YGR054W		Eukaryotic translation initiation factor 2A	Other	TRUE	FALSE	FALSE	FALSE		Other
+P53236	YGR056W	RSC1	Chromatin structure-remodeling complex subunit RSC1	Other	TRUE	FALSE	FALSE	FALSE		Other
+P22204	YGR092W	DBF2	Cell cycle protein kinase DBF2	Kinase	TRUE	FALSE	FALSE	FALSE		Kinase
+P53261	YGR103W	NOP7	Pescadillo homolog	Other	TRUE	FALSE	FALSE	FALSE		Other
+P32585	YGR104C	SRB5	Mediator of RNA polymerase II transcription subunit 18	Other	TRUE	FALSE	FALSE	FALSE		Other
+P53265	YGR111W		Uncharacterized protein YGR111W	Other	TRUE	FALSE	FALSE	FALSE		Other
+P53267	YGR113W	DAM1	DASH complex subunit DAM1	Other	TRUE	FALSE	TRUE	TRUE		MethylationTarget
+P23615	YGR116W	SPT6	Transcription elongation factor SPT6	Other	TRUE	FALSE	FALSE	FALSE		Other
+P48837	YGR119C	NUP57	Nucleoporin NUP57	Other	FALSE	FALSE	FALSE	FALSE		Other
+P32504	YGR140W	CBF2	Centromere DNA-binding protein complex CBF3 subunit A	Other	TRUE	FALSE	FALSE	FALSE		Other
+P27476	YGR159C	NSR1	Nuclear localization sequence-binding protein	Other	TRUE	TRUE	FALSE	TRUE		MethylationTarget
+P39935	YGR162W	TIF4631	Eukaryotic initiation factor 4F subunit p150	Other	TRUE	FALSE	FALSE	FALSE		Other
+P53297	YGR178C	PBP1	PAB1-binding protein 1	Other	TRUE	FALSE	FALSE	FALSE		Other
+P49723	YGR180C	RNR4	Ribonucleoside-diphosphate reductase small chain 2	Other	TRUE	FALSE	FALSE	FALSE		Other
+P41695	YGR188C	BUB1	Checkpoint serine/threonine-protein kinase BUB1	Kinase	TRUE	FALSE	FALSE	FALSE		Kinase
+Q03330	YGR252W	GCN5	Histone acetyltransferase GCN5	Other	TRUE	FALSE	FALSE	FALSE		Other
+P53323	YGR262C	BUD32	EKC/KEOPS complex subunit BUD32	Kinase	TRUE	FALSE	FALSE	FALSE		Kinase
+P40340	YGR270W	YTA7	Tat-binding homolog 7	Other	TRUE	FALSE	FALSE	FALSE		Other
+P53330	YGR275W	RTT102	Regulator of Ty1 transposition protein 102	Other	TRUE	FALSE	FALSE	FALSE		Other
+Q03497	YHL007C	STE20	Serine/threonine-protein kinase STE20	Kinase	TRUE	FALSE	FALSE	FALSE		Kinase
+P18888	YHL025W	SNF6	Transcription regulatory protein SNF6	Other	TRUE	FALSE	FALSE	FALSE		Other
+P10080	YHL034C	SBP1	Single-stranded nucleic acid-binding protein	Other	TRUE	TRUE	FALSE	TRUE		MethylationTarget
+P38732	YHL039W	EFM1	Protein-lysine N-methyltransferase EFM1	Methyltransferase	FALSE	FALSE	FALSE	FALSE	Lysine	Methyltransferase
+P32793	YHR016C	YSC84	Protein YSC84	Other	TRUE	FALSE	FALSE	FALSE		Other
+Q00772	YHR030C	SLT2	Mitogen-activated protein kinase SLT2/MPK1	Kinase	TRUE	FALSE	FALSE	FALSE		Kinase
+P38779	YHR052W	CIC1	Proteasome-interacting protein CIC1	Other	TRUE	FALSE	FALSE	FALSE		Other
+P38781	YHR056C	RSC30	Chromatin structure-remodeling complex protein RSC30	Other	TRUE	FALSE	FALSE	FALSE		Other
+Q6Q547	YHR072W-A	NOP10	H/ACA ribonucleoprotein complex subunit 3	Other	FALSE	FALSE	FALSE	FALSE		Other
+P32361	YHR079C	IRE1	Serine/threonine-protein kinase/endoribonuclease IRE1 precursor	Kinase	TRUE	FALSE	FALSE	FALSE		Kinase
+P38691	YHR082C	KSP1	Serine/threonine-protein kinase KSP1	Kinase	TRUE	FALSE	FALSE	FALSE		Kinase
+Q00539	YHR086W	NAM8	Protein NAM8	Other	FALSE	FALSE	FALSE	FALSE		Other
+P28007	YHR089C	GAR1	H/ACA ribonucleoprotein complex subunit 1	Other	TRUE	TRUE	FALSE	TRUE		MethylationTarget
+P38806	YHR090C	YNG2	Chromatin modification-related protein YNG2	Other	TRUE	FALSE	FALSE	FALSE		Other
+P38811	YHR099W	TRA1	Transcription-associated protein 1	Other	TRUE	FALSE	FALSE	FALSE		Other
+P38818	YHR109W	CTM1	Cytochrome c lysine N-methyltransferase 1	Methyltransferase	FALSE	FALSE	FALSE	FALSE	Lysine	Methyltransferase
+P38827	YHR119W	SET1	Histone-lysine N-methyltransferase, H3 lysine-4 specific	Methyltransferase	TRUE	FALSE	FALSE	FALSE	Lysine	Methyltransferase
+P38833	YHR127W		Uncharacterized protein YHR127W	Other	FALSE	FALSE	FALSE	FALSE		Other
+P23291	YHR135C	YCK1	Casein kinase I homolog 1	Kinase	TRUE	FALSE	FALSE	FALSE		Kinase
+P0CX28	YHR141C	RPL42B	60S ribosomal protein L42-B	Other	FALSE	FALSE	TRUE	TRUE		MethylationTarget
+P40422	YHR143W-A	RPC10	DNA-directed RNA polymerases I, II, and III subunit RPABC4	Other	TRUE	FALSE	FALSE	FALSE		Other
+P17123	YHR152W	SPO12	Sporulation-specific protein 12	Other	TRUE	FALSE	FALSE	FALSE		Other
+P38850	YHR154W	RTT107	Regulator of Ty1 transposition protein 107	Other	TRUE	FALSE	FALSE	FALSE		Other
+P33334	YHR165C	PRP8	Pre-mRNA-splicing factor 8	Other	TRUE	FALSE	FALSE	FALSE		Other
+O13539	YHR167W	THP2	THO complex subunit THP2	Other	FALSE	FALSE	FALSE	FALSE		Other
+P00925	YHR174W	ENO2	Enolase 2	Other	TRUE	FALSE	FALSE	FALSE		Other
+P38883	YHR197W	RIX1	Pre-rRNA-processing protein RIX1	Other	TRUE	FALSE	FALSE	FALSE		Other
+P38890	YHR207C	SET5	Putative protein lysine methyltransferase SET5	Methyltransferase	TRUE	FALSE	FALSE	FALSE	Lysine	Methyltransferase
+P16370	YIL021W	RPB3	DNA-directed RNA polymerase II subunit RPB3	Other	TRUE	FALSE	FALSE	FALSE		Other
+P15790	YIL035C	CKA1	Casein kinase II subunit alpha	Kinase	TRUE	FALSE	FALSE	FALSE		Kinase
+P40530	YIL042C	PKP1	[Pyruvate dehydrogenase (acetyl-transferring)] kinase 1, mitochondrial precursor	Kinase	TRUE	FALSE	FALSE	FALSE		Kinase
+P40186	YIL050W	PCL7	PHO85 cyclin-7	Other	TRUE	FALSE	FALSE	FALSE		Other
+P40519	YIL060W		Uncharacterized protein YIL060W	Other	FALSE	FALSE	FALSE	FALSE		Other
+Q00916	YIL061C	SNP1	U1 small nuclear ribonucleoprotein 70 kDa homolog	Other	TRUE	TRUE	FALSE	TRUE		MethylationTarget
+P40516	YIL064W	SEE1	Protein-lysine N-methyltransferase EFM4	Methyltransferase	FALSE	FALSE	FALSE	FALSE	Lysine	Methyltransferase
+P40507	YIL079C	AIR1	Protein AIR1	Other	TRUE	FALSE	FALSE	FALSE		Other
+P40494	YIL095W	PRK1	Actin-regulating kinase PRK1	Kinase	TRUE	FALSE	FALSE	FALSE		Kinase
+P40486	YIL104C	SHQ1	Protein SHQ1	Other	FALSE	FALSE	FALSE	FALSE		Other
+P40481	YIL110W	HPM1	Histidine protein methyltransferase 1	Methyltransferase	FALSE	FALSE	FALSE	FALSE	Histidine	Methyltransferase
+P32597	YIL126W	STH1	Nuclear protein STH1/NPS1	Other	TRUE	FALSE	FALSE	FALSE		Other
+P26784	YIL133C	RPL16A	60S ribosomal protein L16-A	Other	TRUE	FALSE	FALSE	FALSE		Other
+P40460	YIL144W	TID3	Kinetochore protein NDC80	Other	TRUE	FALSE	FALSE	FALSE		Other
+P40457	YIL149C	MLP2	Protein MLP2	Other	FALSE	FALSE	FALSE	FALSE		Other
+P40568	YIR010W	DSN1	Kinetochore-associated protein DSN1	Other	TRUE	FALSE	FALSE	FALSE		Other
+P47077	YJL010C	NOP9	Nucleolar protein 9	Other	TRUE	FALSE	FALSE	FALSE		Other
+P47069	YJL019W	MPS3	Spindle pole body assembly component MPS3	Other	TRUE	FALSE	FALSE	FALSE		Other
+P20448	YJL033W	HCA4	ATP-dependent RNA helicase HCA4	Other	TRUE	FALSE	FALSE	FALSE		Other
+P47047	YJL050W	MTR4	ATP-dependent RNA helicase DOB1	Other	FALSE	FALSE	FALSE	FALSE		Other
+P47042	YJL057C	IKS1	Probable serine/threonine-protein kinase IKS1	Kinase	TRUE	FALSE	FALSE	FALSE		Kinase
+P80428	YJL081C	ARP4	Actin-related protein 4	Other	TRUE	FALSE	FALSE	FALSE		Other
+Q01389	YJL095W	BCK1	Serine/threonine-protein kinase BCK1/SLK1/SSP31	Kinase	TRUE	FALSE	FALSE	FALSE		Kinase
+P32581	YJL106W	IME2	Meiosis induction protein kinase IME2/SME1	Kinase	TRUE	FALSE	FALSE	FALSE		Kinase
+P32447	YJL115W	ASF1	Histone chaperone ASF1	Other	TRUE	FALSE	FALSE	FALSE		Other
+P47019	YJL122W	ALB1	Ribosome biogenesis protein ALB1	Other	TRUE	FALSE	FALSE	FALSE		Other
+P35208	YJL127C	SPT10	Protein SPT10	Other	TRUE	FALSE	FALSE	FALSE		Other
+P08018	YJL128C	PBS2	MAP kinase kinase PBS2	Kinase	TRUE	FALSE	FALSE	FALSE		Kinase
+P20433	YJL140W	RPB4	DNA-directed RNA polymerase II subunit RPB4	Other	TRUE	FALSE	FALSE	FALSE		Other
+P06244	YJL164C	TPK1	cAMP-dependent protein kinase type 1	Kinase	TRUE	FALSE	FALSE	FALSE		Kinase
+P46995	YJL168C	SET2	Histone-lysine N-methyltransferase, H3 lysine-36 specific	Methyltransferase	TRUE	FALSE	FALSE	FALSE	Lysine	Methyltransferase
+P32591	YJL176C	SWI3	SWI/SNF complex subunit SWI3	Other	TRUE	FALSE	FALSE	FALSE		Other
+P46984	YJL184W	GON7	EKC/KEOPS complex subunit GON7	Other	TRUE	FALSE	FALSE	FALSE		Other
+P32944	YJL187C	SWE1	Mitosis inhibitor protein kinase SWE1	Kinase	TRUE	FALSE	FALSE	FALSE		Kinase
+P47083	YJR002W	MPP10	U3 small nucleolar RNA-associated protein MPP10	Other	TRUE	FALSE	FALSE	FALSE		Other
+P00044	YJR048W	CYC1	Cytochrome c iso-1	Other	TRUE	FALSE	TRUE	TRUE		MethylationTarget
+P47116	YJR059W	PTK2	Serine/threonine-protein kinase PTK2/STK2	Kinase	TRUE	FALSE	FALSE	FALSE		Kinase
+P35169	YJR066W	TOR1	Serine/threonine-protein kinase TOR1	Kinase	TRUE	FALSE	FALSE	FALSE		Kinase
+P47128	YJR082C	EAF6	Chromatin modification-related protein EAF6	Other	TRUE	FALSE	FALSE	FALSE		Other
+P47137	YJR096W		Uncharacterized oxidoreductase YJR096W	Other	TRUE	FALSE	FALSE	FALSE		Other
+P47147	YJR110W	YMR1	Phosphoinositide 3-phosphatase	Other	TRUE	FALSE	FALSE	FALSE		Other
+P47156	YJR119C	JHD2	Histone demethylase JHD2	Other	TRUE	FALSE	FALSE	FALSE		Other
+P26783	YJR123W	RPS5	40S ribosomal protein S5	Other	FALSE	FALSE	FALSE	FALSE		Other
+P0CX35	YJR145C	RPS4A	40S ribosomal protein S4-A	Other	TRUE	FALSE	FALSE	FALSE		Other
+P36106	YKL005C	BYE1	Transcription factor BYE1	Other	TRUE	FALSE	FALSE	FALSE		Other
+P33203	YKL012W	PRP40	Pre-mRNA-processing protein PRP40	Other	TRUE	FALSE	FALSE	FALSE		Other
+P36104	YKL018W	SWD2	COMPASS component SWD2	Other	FALSE	FALSE	FALSE	FALSE		Other
+P32801	YKL048C	ELM1	Serine/threonine-protein kinase ELM1	Kinase	TRUE	FALSE	FALSE	FALSE		Kinase
+P36012	YKL049C	CSE4	Histone H3-like centromeric protein CSE4	Other	TRUE	FALSE	FALSE	FALSE		Other
+P35734	YKL052C	ASK1	DASH complex subunit ASK1	Other	TRUE	FALSE	FALSE	FALSE		Other
+Q02629	YKL068W	NUP100	Nucleoporin NUP100/NSP100	Other	TRUE	FALSE	FALSE	FALSE		Other
+P36084	YKL074C	MUD2	Splicing factor MUD2	Other	TRUE	FALSE	FALSE	FALSE		Other
+P34244	YKL101W	HSL1	Probable serine/threonine-protein kinase HSL1	Kinase	TRUE	FALSE	FALSE	FALSE		Kinase
+P14064	YKL109W	HAP4	Transcriptional activator HAP4	Other	TRUE	FALSE	FALSE	FALSE		Other
+P28707	YKL117W	SBA1	Co-chaperone protein SBA1	Other	FALSE	FALSE	FALSE	FALSE		Other
+P36070	YKL125W	RRN3	RNA polymerase I-specific transcription initiation factor RRN3	Other	TRUE	FALSE	FALSE	FALSE		Other
+P69852	YKL138C-A	HSK3	DASH complex subunit HSK3	Other	FALSE	FALSE	FALSE	FALSE		Other
+Q03957	YKL139W	CTK1	CTD kinase subunit alpha	Kinase	TRUE	FALSE	FALSE	FALSE		Kinase
+P34078	YKL143W	LTV1	Protein LTV1	Other	TRUE	FALSE	FALSE	FALSE		Other
+P05986	YKL166C	TPK3	cAMP-dependent protein kinase type 3	Kinase	TRUE	FALSE	FALSE	FALSE		Kinase
+P36004	YKL168C	KKQ8	Probable serine/threonine-protein kinase KKQ8	Kinase	TRUE	FALSE	FALSE	FALSE		Kinase
+P36002	YKL198C	PTK1	Serine/threonine-protein kinase PTK1/STK1	Kinase	FALSE	FALSE	FALSE	FALSE		Kinase
+P36036	YKL214C	YRA2	RNA annealing protein YRA2	Other	TRUE	FALSE	FALSE	FALSE		Other
+Q02206	YKR008W	RSC4	Chromatin structure-remodeling complex subunit RSC4	Other	TRUE	FALSE	FALSE	FALSE		Other
+P36113	YKR017C		E3 ubiquitin-protein ligase HEL2	Other	FALSE	FALSE	FALSE	FALSE		Other
+P36124	YKR029C	SET3	SET domain-containing protein 3	Other	TRUE	FALSE	FALSE	FALSE		Other
+P36131	YKR037C	SPC34	DASH complex subunit SPC34	Other	TRUE	FALSE	FALSE	FALSE		Other
+P25293	YKR048C	NAP1	Nucleosome assembly protein	Other	TRUE	FALSE	FALSE	FALSE		Other
+P00431	YKR066C	CCP1	Cytochrome c peroxidase, mitochondrial precursor	Other	FALSE	FALSE	FALSE	FALSE		Other
+P36162	YKR083C	DAD2	DASH complex subunit DAD2	Other	FALSE	FALSE	FALSE	FALSE		Other
+Q02455	YKR095W	MLP1	Protein MLP1	Other	TRUE	FALSE	FALSE	FALSE		Other
+P10963	YKR097W	PCK1	Phosphoenolpyruvate carboxykinase [ATP]	Other	TRUE	FALSE	FALSE	FALSE		Other
+P54861	YLL001W	DNM1	Dynamin-related protein DNM1	Other	TRUE	FALSE	FALSE	FALSE		Other
+Q07794	YLL002W	RTT109	Histone acetyltransferase RTT109	Other	TRUE	FALSE	FALSE	FALSE		Other
+P33750	YLL011W	SOF1	Protein SOF1	Other	TRUE	FALSE	FALSE	FALSE		Other
+P04802	YLL018C	DPS1	Aspartate--tRNA ligase, cytoplasmic	Other	TRUE	FALSE	FALSE	FALSE		Other
+P32350	YLL019C	KNS1	Dual specificity protein kinase KNS1	Kinase	TRUE	FALSE	FALSE	FALSE		Kinase
+Q12373	YLL022C	HIF1	HAT1-interacting factor 1	Other	TRUE	FALSE	FALSE	FALSE		Other
+P0CG63	YLL039C	UBI4	Polyubiquitin precursor	Other	TRUE	FALSE	FALSE	FALSE		Other
+P43132	YLR015W	BRE2	COMPASS component BRE2	Other	TRUE	FALSE	FALSE	FALSE		Other
+Q07979	YLR033W	RSC58	Chromatin structure-remodeling complex protein RSC58	Other	FALSE	FALSE	FALSE	FALSE		Other
+P19263	YLR071C	RGR1	Mediator of RNA polymerase II transcription subunit 14	Other	TRUE	FALSE	FALSE	FALSE		Other
+P41805	YLR075W	RPL10	60S ribosomal protein L10	Other	TRUE	FALSE	FALSE	FALSE		Other
+Q12509	YLR085C	ARP6	Actin-like protein ARP6	Other	FALSE	FALSE	FALSE	FALSE		Other
+P13186	YLR096W	KIN2	Serine/threonine-protein kinase KIN2	Kinase	TRUE	FALSE	FALSE	FALSE		Kinase
+Q08032	YLR103C	CDC45	Cell division control protein 45	Other	TRUE	FALSE	FALSE	FALSE		Other
+P32485	YLR113W	HOG1	Mitogen-activated protein kinase HOG1	Kinase	TRUE	FALSE	FALSE	FALSE		Kinase
+Q12186	YLR116W	MSL5	Branchpoint-bridging protein	Other	TRUE	FALSE	FALSE	FALSE		Other
+Q12367	YLR137W	RKM5	Ribosomal lysine N-methyltransferase 5	Methyltransferase	FALSE	FALSE	FALSE	FALSE	Lysine	Methyltransferase
+Q02983	YLR141W	RRN5	RNA polymerase I-specific transcription initiation factor RRN5	Other	FALSE	FALSE	FALSE	FALSE		Other
+P39015	YLR150W	STM1	Suppressor protein STM1	Other	TRUE	TRUE	FALSE	TRUE		MethylationTarget
+P52910	YLR153C	ACS2	Acetyl-coenzyme A synthetase 2	Other	TRUE	FALSE	FALSE	FALSE		Other
+P33322	YLR175W	CBF5	H/ACA ribonucleoprotein complex subunit 4	Other	TRUE	FALSE	FALSE	FALSE		Other
+Q05775	YLR192C	HCR1	Eukaryotic translation initiation factor 3 subunit J	Other	TRUE	FALSE	FALSE	FALSE		Other
+Q12460	YLR197W	NOP56	Nucleolar protein 56	Other	TRUE	FALSE	FALSE	FALSE		Other
+Q01662	YLR244C	MAP1	Methionine aminopeptidase 1  precursor	Other	TRUE	FALSE	FALSE	FALSE		Other
+P16521	YLR249W	YEF3	Elongation factor 3A	Other	TRUE	FALSE	TRUE	TRUE		MethylationTarget
+Q02574	YLR288C	MEC3	DNA damage checkpoint control protein MEC3	Other	TRUE	FALSE	FALSE	FALSE		Other
+Q06168	YLR321C	SFH1	Chromatin structure-remodeling complex subunit SFH1	Other	TRUE	FALSE	FALSE	FALSE		Other
+P0C0T4	YLR333C	RPS25B	40S ribosomal protein S25-B	Other	FALSE	FALSE	FALSE	TRUE		MethylationTarget
+P05317	YLR340W	RPP0	60S acidic ribosomal protein P0	Other	FALSE	FALSE	FALSE	FALSE		Other
+Q06142	YLR347C	KAP95	Importin subunit beta-1	Other	TRUE	FALSE	FALSE	FALSE		Other
+Q06488	YLR357W	RSC2	Chromatin structure-remodeling complex subunit RSC2	Other	TRUE	FALSE	FALSE	FALSE		Other
+Q06707	YLR385C	SWC7	SWR1-complex protein 7	Other	FALSE	FALSE	FALSE	FALSE		Other
+P32794	YLR397C	AFG2	ATPase family gene 2 protein	Other	TRUE	FALSE	FALSE	FALSE		Other
+P35817	YLR399C	BDF1	Bromodomain-containing factor 1	Other	TRUE	FALSE	FALSE	FALSE		Other
+P06701	YLR442C	SIR3	Regulatory protein SIR3	Other	TRUE	FALSE	FALSE	FALSE		Other
+Q06205	YLR449W	FPR4	FK506-binding protein 4	Other	TRUE	FALSE	FALSE	FALSE		Other
+P27692	YML010W	SPT5	Transcription elongation factor SPT5	Other	TRUE	FALSE	FALSE	FALSE		Other
+P50109	YML017W	PSP2	Protein PSP2	Other	TRUE	FALSE	FALSE	FALSE		Other
+P06778	YML032C	RAD52	DNA repair and recombination protein RAD52	Other	TRUE	FALSE	FALSE	FALSE		Other
+Q03433	YML041C	VPS71	Vacuolar protein sorting-associated protein 71	Other	FALSE	FALSE	FALSE	FALSE		Other
+P39682	YML046W	PRP39	Pre-mRNA-processing factor 39	Other	FALSE	FALSE	FALSE	FALSE		Other
+P33441	YML062C	MFT1	THO complex subunit MFT1	Other	TRUE	FALSE	FALSE	FALSE		Other
+P54784	YML065W	ORC1	Origin recognition complex subunit 1	Other	TRUE	FALSE	FALSE	FALSE		Other
+Q04636	YML069W	POB3	FACT complex subunit POB3	Other	TRUE	FALSE	FALSE	FALSE		Other
+Q04199	YML102W	CAC2	Chromatin assembly factor 1 subunit p60	Other	TRUE	FALSE	FALSE	FALSE		Other
+P54839	YML126C	ERG13	Hydroxymethylglutaryl-CoA synthase	Other	FALSE	FALSE	FALSE	FALSE		Other
+Q03124	YML127W	RSC9	Chromatin structure-remodeling complex subunit RSC9	Other	TRUE	FALSE	FALSE	FALSE		Other
+P32562	YMR001C	CDC5	Cell cycle serine/threonine-protein kinase CDC5/MSD2	Kinase	TRUE	FALSE	FALSE	FALSE		Kinase
+Q05123	YMR033W	ARP9	Actin-like protein ARP9	Other	TRUE	FALSE	FALSE	FALSE		Other
+Q04213	YMR044W	IOC4	ISWI one complex protein 4	Other	FALSE	FALSE	FALSE	FALSE		Other
+Q02630	YMR047C	NUP116	Nucleoporin NUP116/NSP116	Other	FALSE	FALSE	FALSE	FALSE		Other
+P25298	YMR061W	RNA14	mRNA 3'-end-processing protein RNA14	Other	TRUE	FALSE	FALSE	FALSE		Other
+Q02486	YMR072W	ABF2	ARS-binding factor 2, mitochondrial precursor	Other	TRUE	FALSE	FALSE	FALSE		Other
+Q04779	YMR075W	RCO1	Transcriptional regulatory protein RCO1	Other	TRUE	FALSE	FALSE	FALSE		Other
+P30771	YMR080C	NAM7	ATP-dependent helicase NAM7	Other	TRUE	FALSE	FALSE	FALSE		Other
+P32832	YMR091C	NPL6	Chromatin structure-remodeling complex subunit RSC7	Other	TRUE	FALSE	FALSE	FALSE		Other
+Q04437	YMR106C	YKU80	ATP-dependent DNA helicase II subunit 2	Other	TRUE	FALSE	FALSE	FALSE		Other
+P34160	YMR125W	STO1	Nuclear cap-binding protein complex subunit 1	Other	TRUE	FALSE	FALSE	FALSE		Other
+P40963	YMR127C	SAS2	Histone acetyltransferase SAS2	Other	FALSE	FALSE	FALSE	FALSE		Other
+Q04225	YMR131C	RRB1	Ribosome assembly protein RRB1	Other	TRUE	FALSE	FALSE	FALSE		Other
+P38615	YMR139W	RIM11	Serine/threonine-protein kinase RIM11/MSD1	Kinase	TRUE	FALSE	FALSE	FALSE		Kinase
+P01094	YMR174C	PAI3	Protease A inhibitor 3	Other	TRUE	FALSE	FALSE	FALSE		Other
+Q03214	YMR176W	ECM5	Protein ECM5	Other	TRUE	FALSE	FALSE	FALSE		Other
+Q03691	YMR200W	ROT1	Protein ROT1 precursor	Other	FALSE	FALSE	FALSE	FALSE		Other
+Q03656	YMR216C	SKY1	Serine/threonine-protein kinase SKY1	Kinase	TRUE	FALSE	FALSE	FALSE		Kinase
+Q05022	YMR229C	RRP5	rRNA biogenesis protein RRP5	Other	TRUE	FALSE	FALSE	FALSE		Other
+P12868	YMR231W	PEP5	E3 ubiquitin-protein ligase PEP5	Other	TRUE	FALSE	FALSE	FALSE		Other
+Q05027	YMR236W	TAF9	Transcription initiation factor TFIID subunit 9	Other	TRUE	FALSE	FALSE	FALSE		Other
+Q05029	YMR237W	BCH1	Protein BCH1	Other	FALSE	FALSE	FALSE	FALSE		Other
+Q02555	YMR239C	RNT1	Ribonuclease 3	Other	TRUE	FALSE	FALSE	FALSE		Other
+Q04839	YMR255W	GFD1	mRNA transport factor GFD1	Other	TRUE	FALSE	FALSE	FALSE		Other
+Q03533	YMR291W	TDA1	Serine/threonine-protein kinase TDA1	Kinase	TRUE	FALSE	FALSE	FALSE		Kinase
+P32337	YMR308C	PSE1	Importin subunit beta-3	Other	TRUE	FALSE	FALSE	FALSE		Other
+P38922	YNL004W	HRB1	Protein HRB1	Other	TRUE	TRUE	FALSE	TRUE		MethylationTarget
+P32588	YNL016W	PUB1	Nuclear and cytoplasmic polyadenylated RNA-binding protein PUB1	Other	FALSE	FALSE	FALSE	FALSE		Other
+P53973	YNL021W	HDA1	Histone deacetylase HDA1	Other	TRUE	FALSE	FALSE	FALSE		Other
+P02309	YNL030W	HHF2	Histone H4	Other	TRUE	TRUE	TRUE	TRUE		MethylationTarget
+P61830	YNL031C	HHT2	Histone H3	Other	TRUE	FALSE	TRUE	TRUE		MethylationTarget
+P53950	YNL054W	VAC7	Vacuolar segregation protein 7	Other	TRUE	FALSE	FALSE	FALSE		Other
+P40991	YNL061W	NOP2	25S rRNA (cytosine(2870)-C(5))-methyltransferase	Other	TRUE	FALSE	FALSE	FALSE		Other
+P53944	YNL063W	MTQ1	Mitochondrial N(5)-glutamine methyltransferase MTQ1	Methyltransferase	FALSE	FALSE	FALSE	FALSE	Glutamine	Methyltransferase
+P53941	YNL075W	IMP4	U3 small nucleolar ribonucleoprotein protein IMP4	Other	FALSE	FALSE	FALSE	FALSE		Other
+P50947	YNL097C	PHO23	Transcriptional regulatory protein PHO23	Other	TRUE	FALSE	FALSE	FALSE		Other
+P53930	YNL107W	YAF9	Protein AF-9 homolog	Other	TRUE	FALSE	FALSE	FALSE		Other
+P24783	YNL112W	DBP2	ATP-dependent RNA helicase DBP2	Other	TRUE	FALSE	FALSE	FALSE		Other
+P53919	YNL124W	NAF1	H/ACA ribonucleoprotein complex non-core subunit NAF1	Other	FALSE	FALSE	FALSE	FALSE		Other
+P27929	YNL137C	NAM9	37S ribosomal protein NAM9, mitochondrial precursor	Other	FALSE	FALSE	FALSE	FALSE		Other
+P53552	YNL139C	THO2	THO complex subunit 2	Other	TRUE	TRUE	FALSE	TRUE		MethylationTarget
+P23292	YNL154C	YCK2	Casein kinase I homolog 2	Kinase	TRUE	FALSE	FALSE	FALSE		Kinase
+P53894	YNL161W	CBK1	Serine/threonine-protein kinase CBK1	Kinase	TRUE	FALSE	FALSE	FALSE		Kinase
+P0CX27	YNL162W	RPL42A	60S ribosomal protein L42-A	Other	TRUE	FALSE	TRUE	TRUE		MethylationTarget
+Q02100	YNL167C	SKO1	CRE-binding bZIP protein SKO1	Other	TRUE	FALSE	FALSE	FALSE		Other
+P53883	YNL175C	NOP13	Nucleolar protein 13	Other	TRUE	FALSE	FALSE	FALSE		Other
+P05750	YNL178W	RPS3	40S ribosomal protein S3	Other	TRUE	TRUE	FALSE	TRUE		MethylationTarget
+P53874	YNL186W	UBP10	Ubiquitin carboxyl-terminal hydrolase 10	Other	TRUE	FALSE	FALSE	FALSE		Other
+P40164	YNL201C	PSY2	Serine/threonine-protein phosphatase 4 regulatory subunit 3	Other	TRUE	FALSE	FALSE	FALSE		Other
+P40161	YNL206C	RTT106	Histone chaperone RTT106	Other	TRUE	FALSE	FALSE	FALSE		Other
+P40160	YNL207W	RIO2	Serine/threonine-protein kinase RIO2	Kinase	TRUE	FALSE	FALSE	FALSE		Kinase
+P80210	YNL220W	ADE12	Adenylosuccinate synthetase	Other	FALSE	FALSE	FALSE	FALSE		Other
+P53853	YNL246W	VPS75	Vacuolar protein sorting-associated protein 75	Other	TRUE	FALSE	FALSE	FALSE		Other
+P53617	YNL251C	NRD1	Protein NRD1	Other	TRUE	FALSE	FALSE	FALSE		Other
+P53851	YNL253W	TEX1	Protein TEX1	Other	TRUE	FALSE	FALSE	FALSE		Other
+P53849	YNL255C	GIS2	Zinc finger protein GIS2	Other	TRUE	FALSE	FALSE	FALSE		Other
+P41832	YNL271C	BNI1	Protein BNI1	Other	TRUE	FALSE	FALSE	FALSE		Other
+P48562	YNL298W	CLA4	Serine/threonine-protein kinase CLA4	Kinase	TRUE	FALSE	FALSE	FALSE		Kinase
+P48561	YNL299W	TRF5	Poly(A) RNA polymerase protein 1	Other	FALSE	FALSE	FALSE	FALSE		Other
+P48559	YNL304W	YPT11	GTP-binding protein YPT11	Other	TRUE	FALSE	FALSE	FALSE		Other
+P21965	YNL307C	MCK1	Protein kinase MCK1	Kinase	TRUE	FALSE	FALSE	FALSE		Kinase
+P42846	YNL308C	KRI1	Protein KRI1	Other	TRUE	FALSE	FALSE	FALSE		Other
+P32561	YNL330C	RPD3	Histone deacetylase RPD3	Other	TRUE	FALSE	FALSE	FALSE		Other
+P53628	YNR023W	SNF12	Transcription regulatory protein SNF12	Other	TRUE	FALSE	FALSE	FALSE		Other
+P53599	YNR031C	SSK2	MAP kinase kinase kinase SSK2	Kinase	TRUE	FALSE	FALSE	FALSE		Kinase
+P53738	YNR046W	TRM112	Multifunctional methyltransferase subunit TRM112	Other	FALSE	FALSE	FALSE	FALSE		Other
+P53741	YNR051C	BRE5	UBP3-associated protein BRE5	Other	TRUE	FALSE	FALSE	FALSE		Other
+P39008	YNR052C	POP2	Poly(A) ribonuclease POP2	Other	TRUE	FALSE	FALSE	FALSE		Other
+P53742	YNR053C	NOG2	Nucleolar GTP-binding protein 2	Other	FALSE	FALSE	FALSE	FALSE		Other
+P53743	YNR054C	ESF2	Pre-rRNA-processing protein ESF2	Other	FALSE	FALSE	FALSE	FALSE		Other
+P22579	YOL004W	SIN3	Transcriptional regulatory protein SIN3	Other	TRUE	FALSE	FALSE	FALSE		Other
+P38902	YOL005C	RPB11	DNA-directed RNA polymerase II subunit RPB11	Other	TRUE	FALSE	FALSE	FALSE		Other
+P04786	YOL006C	TOP1	DNA topoisomerase 1	Other	TRUE	FALSE	FALSE	FALSE		Other
+Q08096	YOL010W	RCL1	RNA 3'-terminal phosphate cyclase-like protein	Other	TRUE	FALSE	FALSE	FALSE		Other
+Q12692	YOL012C	HTZ1	Histone H2A.Z	Other	TRUE	FALSE	TRUE	TRUE		MethylationTarget
+P22517	YOL016C	CMK2	Calcium/calmodulin-dependent protein kinase II	Kinase	TRUE	FALSE	FALSE	FALSE		Kinase
+P05319	YOL039W	RPP2A	60S acidic ribosomal protein P2-alpha	Other	TRUE	FALSE	FALSE	FALSE		Other
+Q08217	YOL045W	PSK2	Serine/threonine-protein kinase PSK2	Kinase	TRUE	FALSE	FALSE	FALSE		Kinase
+Q12236	YOL100W	PKH2	Serine/threonine-protein kinase PKH2	Kinase	TRUE	FALSE	FALSE	FALSE		Kinase
+Q12469	YOL113W	SKM1	Serine/threonine-protein kinase SKM1	Kinase	TRUE	FALSE	FALSE	FALSE		Kinase
+P53632	YOL115W	PAP2	Poly(A) RNA polymerase protein 2	Other	TRUE	FALSE	FALSE	FALSE		Other
+Q99383	YOL123W	HRP1	Nuclear polyadenylated RNA-binding protein 4	Other	TRUE	TRUE	FALSE	TRUE		MethylationTarget
+P04456	YOL127W	RPL25	60S ribosomal protein L25	Other	TRUE	FALSE	FALSE	FALSE		Other
+P07260	YOL139C	CDC33	Eukaryotic translation initiation factor 4E	Other	TRUE	FALSE	FALSE	FALSE		Other
+Q12149	YOR001W	RRP6	Exosome complex exonuclease RRP6	Other	TRUE	FALSE	FALSE	FALSE		Other
+Q12314	YOR021C	SFM1	Protein arginine N-methyltransferase SFM1	Methyltransferase	FALSE	FALSE	FALSE	FALSE	Arginine	Methyltransferase
+P32480	YOR038C	HIR2	Protein HIR2	Other	TRUE	FALSE	FALSE	FALSE		Other
+P38930	YOR039W	CKB2	Casein kinase II subunit beta'	Other	TRUE	FALSE	FALSE	FALSE		Other
+Q02792	YOR048C	RAT1	5'-3' exoribonuclease 2	Other	TRUE	FALSE	FALSE	FALSE		Other
+P19454	YOR061W	CKA2	Casein kinase II subunit alpha'	Kinase	TRUE	FALSE	FALSE	FALSE		Kinase
+P14126	YOR063W	RPL3	60S ribosomal protein L3	Other	FALSE	FALSE	FALSE	TRUE		MethylationTarget
+Q08465	YOR064C	YNG1	Protein YNG1	Other	FALSE	FALSE	FALSE	FALSE		Other
+P07143	YOR065W	CYT1	Cytochrome c1, heme protein, mitochondrial precursor	Other	FALSE	FALSE	FALSE	FALSE		Other
+Q12196	YOR119C	RIO1	Serine/threonine-protein kinase RIO1	Kinase	TRUE	FALSE	FALSE	FALSE		Kinase
+P38439	YOR123C	LEO1	RNA polymerase-associated protein LEO1	Other	TRUE	FALSE	FALSE	FALSE		Other
+P32324	YOR133W	EFT1	Elongation factor 2	Other	TRUE	FALSE	FALSE	FALSE		Other
+Q12386	YOR141C	ARP8	Actin-like protein ARP8	Other	TRUE	FALSE	FALSE	FALSE		Other
+P08518	YOR151C	RPB2	DNA-directed RNA polymerase II subunit RPB2	Other	TRUE	FALSE	FALSE	FALSE		Other
+Q99189	YOR160W	MTR10	mRNA transport regulator MTR10	Other	TRUE	FALSE	FALSE	FALSE		Other
+P32875	YOR196C	LIP5	Lipoyl synthase, mitochondrial  precursor	Other	TRUE	FALSE	FALSE	FALSE		Other
+P06633	YOR202W	HIS3	Imidazoleglycerol-phosphate dehydratase	Other	FALSE	FALSE	FALSE	FALSE		Other
+P06634	YOR204W	DED1	ATP-dependent RNA helicase DED1	Other	TRUE	TRUE	FALSE	TRUE		MethylationTarget
+P22139	YOR210W	RPB10	DNA-directed RNA polymerases I, II, and III subunit RPABC5	Other	TRUE	FALSE	FALSE	FALSE		Other
+P20436	YOR224C	RPB8	DNA-directed RNA polymerases I, II, and III subunit RPABC3	Other	TRUE	FALSE	FALSE	FALSE		Other
+P32490	YOR231W	MKK1	MAP kinase kinase MKK1/SSP32	Kinase	TRUE	FALSE	FALSE	FALSE		Kinase
+Q08649	YOR244W	ESA1	Histone acetyltransferase ESA1	Other	TRUE	FALSE	FALSE	FALSE		Other
+P09032	YOR260W	GCD1	Translation initiation factor eIF-2B subunit gamma	Other	TRUE	FALSE	FALSE	FALSE		Other
+Q08732	YOR267C	HRK1	Serine/threonine-protein kinase HRK1	Kinase	TRUE	FALSE	FALSE	FALSE		Kinase
+P22082	YOR290C	SNF2	Transcription regulatory protein SNF2	Other	TRUE	TRUE	FALSE	TRUE		MethylationTarget
+Q08745	YOR293W	RPS10A	40S ribosomal protein S10-A	Other	FALSE	FALSE	FALSE	FALSE		Other
+P07258	YOR303W	CPA1	Carbamoyl-phosphate synthase arginine-specific small chain	Other	FALSE	FALSE	FALSE	FALSE		Other
+Q08773	YOR304W	ISW2	ISWI chromatin-remodeling complex ATPase ISW2	Other	TRUE	FALSE	FALSE	FALSE		Other
+Q12499	YOR310C	NOP58	Nucleolar protein 58	Other	FALSE	FALSE	FALSE	FALSE		Other
+P21242	YOR362C	PRE10	Probable proteasome subunit alpha type-7	Other	TRUE	FALSE	FALSE	FALSE		Other
+Q12341	YPL001W	HAT1	Histone acetyltransferase type B catalytic subunit	Other	TRUE	FALSE	FALSE	FALSE		Other
+P09547	YPL016W	SWI1	SWI/SNF chromatin-remodeling complex subunit SWI1	Other	TRUE	FALSE	FALSE	FALSE		Other
+Q02732	YPL018W	CTF19	Central kinetochore subunit CTF19	Other	TRUE	FALSE	FALSE	FALSE		Other
+Q12505	YPL026C	SKS1	Serine/threonine-protein kinase SKS1	Kinase	FALSE	FALSE	FALSE	FALSE		Kinase
+P17157	YPL031C	PHO85	Cyclin-dependent protein kinase PHO85	Kinase	TRUE	FALSE	FALSE	FALSE		Kinase
+P39073	YPL042C	SSN3	Meiotic mRNA stability protein kinase SSN3	Kinase	TRUE	FALSE	FALSE	FALSE		Kinase
+Q03067	YPL047W	SGF11	SAGA-associated factor 11	Other	FALSE	FALSE	FALSE	FALSE		Other
+P29547	YPL048W	CAM1	Elongation factor 1-gamma 1	Other	TRUE	FALSE	FALSE	FALSE		Other
+Q02908	YPL086C	ELP3	Elongator complex protein 3	Other	TRUE	FALSE	FALSE	FALSE		Other
+Q12224	YPL089C	RLM1	Transcription factor RLM1	Other	TRUE	FALSE	FALSE	FALSE		Other
+P53551	YPL127C	HHO1	Histone H1	Other	TRUE	FALSE	FALSE	FALSE		Other
+P35189	YPL129W	TAF14	Transcription initiation factor TFIID subunit 14	Other	TRUE	FALSE	FALSE	FALSE		Other
+Q03012	YPL138C	SPP1	COMPASS component SPP1	Other	TRUE	FALSE	FALSE	FALSE		Other
+Q03010	YPL139C	UME1	Transcriptional regulatory protein UME1	Other	TRUE	FALSE	FALSE	FALSE		Other
+P32491	YPL140C	MKK2	MAP kinase kinase MKK2/SSP33	Kinase	TRUE	FALSE	FALSE	FALSE		Kinase
+Q12152	YPL150W		Putative serine/threonine-protein kinase YPL150W	Kinase	TRUE	FALSE	FALSE	FALSE		Kinase
+P22216	YPL153C	RAD53	Serine/threonine-protein kinase RAD53	Kinase	TRUE	FALSE	FALSE	FALSE		Kinase
+Q99257	YPL169C	MEX67	mRNA export factor MEX67	Other	TRUE	FALSE	FALSE	FALSE		Other
+P41816	YPL171C	OYE3	NADPH dehydrogenase 3	Other	TRUE	FALSE	FALSE	FALSE		Other
+Q08920	YPL178W	CBC2	Nuclear cap-binding protein subunit 2	Other	FALSE	FALSE	FALSE	FALSE		Other
+Q08923	YPL181W	CTI6	Histone deacetylase complex subunit CTI6	Other	TRUE	FALSE	FALSE	FALSE		Other
+P38996	YPL190C	NAB3	Nuclear polyadenylated RNA-binding protein 3	Other	TRUE	FALSE	FALSE	FALSE		Other
+P29295	YPL204W	HRR25	Casein kinase I homolog HRR25	Kinase	TRUE	FALSE	FALSE	FALSE		Kinase
+Q08961	YPL208W	RKM1	Ribosomal lysine N-methyltransferase 1	Methyltransferase	TRUE	FALSE	FALSE	FALSE	Lysine	Methyltransferase
+P38991	YPL209C	IPL1	Spindle assembly checkpoint kinase	Kinase	TRUE	FALSE	FALSE	FALSE		Kinase
+Q12211	YPL212C	PUS1	tRNA pseudouridine synthase 1	Other	FALSE	FALSE	FALSE	FALSE		Other
+Q08963	YPL213W	LEA1	U2 small nuclear ribonucleoprotein A'	Other	FALSE	FALSE	FALSE	FALSE		Other
+Q08965	YPL217C	BMS1	Ribosome biogenesis protein BMS1	Other	TRUE	FALSE	FALSE	FALSE		Other
+P0CX43	YPL220W	RPL1A	60S ribosomal protein L1-A	Other	TRUE	FALSE	TRUE	TRUE		MethylationTarget
+Q08972	YPL226W	NEW1	[NU+] prion formation protein 1	Other	FALSE	FALSE	FALSE	FALSE		Other
+Q12464	YPL235W	RVB2	RuvB-like protein 2	Other	TRUE	FALSE	FALSE	FALSE		Other
+P46683	YPL239W	YAR1	Ankyrin repeat-containing protein YAR1	Other	FALSE	FALSE	FALSE	FALSE		Other
+P04386	YPL248C	GAL4	Regulatory protein GAL4	Other	TRUE	FALSE	FALSE	FALSE		Other
+Q12522	YPR016C	TIF6	Eukaryotic translation initiation factor 6	Other	TRUE	FALSE	FALSE	FALSE		Other
+Q12495	YPR018W	RLF2	Chromatin assembly factor 1 subunit p90	Other	TRUE	FALSE	FALSE	FALSE		Other
+P30665	YPR019W	MCM4	DNA replication licensing factor MCM4	Other	TRUE	FALSE	FALSE	FALSE		Other
+Q12432	YPR023C	EAF3	Chromatin modification-related protein EAF3	Other	TRUE	FALSE	FALSE	FALSE		Other
+Q12311	YPR031W	NTO1	NuA3 HAT complex component NTO1	Other	FALSE	FALSE	FALSE	FALSE		Other
+Q12406	YPR034W	ARP7	Actin-related protein 7	Other	TRUE	FALSE	FALSE	FALSE		Other
+Q12262	YPR046W	MCM16	Central kinetochore subunit MCM16	Other	FALSE	FALSE	FALSE	FALSE		Other
+P11632	YPR052C	NHP6A	Non-histone chromosomal protein 6A	Other	TRUE	FALSE	FALSE	FALSE		Other
+Q12321	YPR070W	MED1	Mediator of RNA polymerase II transcription subunit 1	Other	TRUE	FALSE	FALSE	FALSE		Other
+P02994	YPR080W	TEF1	Elongation factor 1-alpha	Other	TRUE	FALSE	TRUE	TRUE		MethylationTarget
+Q06834	YPR093C	ASR1	Alcohol-sensitive RING finger protein 1	Other	FALSE	FALSE	FALSE	FALSE		Other
+Q06098	YPR106W	ISR1	Serine/threonine-protein kinase ISR1	Kinase	TRUE	FALSE	FALSE	FALSE		Kinase
+Q06506	YPR137W	RRP9	Ribosomal RNA-processing protein 9	Other	FALSE	FALSE	FALSE	FALSE		Other
+P23293	YPR161C	SGV1	Serine/threonine-protein kinase BUR1	Kinase	TRUE	FALSE	FALSE	FALSE		Kinase
+Q06593	YPR194C	OPT2	Oligopeptide transporter 2	Other	FALSE	FALSE	FALSE	FALSE		Other
+Q06597	YPR200C	ARR2	Arsenical-resistance protein 2	Other	FALSE	FALSE	FALSE	FALSE		Other

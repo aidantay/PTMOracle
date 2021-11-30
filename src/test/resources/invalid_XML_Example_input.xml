@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<PTMOracle source="Uniprot PTMs" version="1.0">
+    <node id="P06777">
+        <properties>
+            <property description="ERCC4" type="Domain">
+                <positionOnProtein startPos="824" endPos="ASD" residue=""/>
+                <annotationStatus>Good</annotationStatus>
+                <additionalComments>Pfam</additionalComments>
+            </property>
+        </properties>
+    </node>
+</PTMOracle>

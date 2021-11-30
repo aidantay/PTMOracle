@@ -1,0 +1,1 @@
+P06777	Domain	ERCC4	ASD	966	ASD	Good	Pfam

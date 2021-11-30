@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<PTMOracle source="Uniprot PTMs" version="1.0">
+    <node id="P06777">
+        <properties>
+            <property description="ERCC4" type="Domain">
+                <positionOnProtein startPos="824" endPos="966" residue="-"/>
+                <annotationStatus>Good</annotationStatus>
+                <additionalComments>Pfam</additionalComments>
+            </property>
+            <property description="Phosphoserine" type="PTM">
+                <positionOnProtein startPos="1071" endPos="1071" residue="S"/>
+                <annotationStatus>Good</annotationStatus>
+                <additionalComments>Uniprot</additionalComments>
+            </property>
+            <property description="MSQLFYQGDSDDELQEELTRQTTQASQSSKIKNEDEPDDSNHLNEVENEDSKVLDDDAVLY" type="Sequence">
+                <positionOnProtein startPos="1" endPos="61" residue="-"/>
+                <annotationStatus>Good</annotationStatus>
+            </property>
+        </properties>
+    </node>
+    <node id="P32628">
+        <properties>
+            <property description="Phosphoserine" type="PTM">
+                <positionOnProtein startPos="121" endPos="121" residue="S"/>
+                <annotationStatus>Good</annotationStatus>
+                <additionalComments>Uniprot</additionalComments>
+            </property>
+            <property description="ubiquitin" type="Domain">
+                <positionOnProtein startPos="4" endPos="75" residue="-"/>
+                <annotationStatus>Good</annotationStatus>
+                <additionalComments>Pfam</additionalComments>
+            </property>
+            <property description="MVSLTFKNFKKEKVPLDLEPSNTILETKTKLAQSISCEESQIKLIYSGKVLQDSKTVSECGLK" type="Sequence">
+                <positionOnProtein startPos="1" endPos="63" residue="-"/>
+                <additionalComments>Uniprot</additionalComments>
+            </property>
+        </properties>
+    </node>
+</PTMOracle>
